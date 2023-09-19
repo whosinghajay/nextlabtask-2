@@ -1,0 +1,13 @@
+.navbar-brand {
+    color: #333; /* Change to a suitable text color */
+    font-weight: 600;
+}
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+    background-color: #fff; /* Change to a suitable background color */
+    /* Add a contrasting color for the text in the navbar */
+    color: #333; /* Change to a suitable text color */
+}
+.card{
+    margin-bottom: 100vh;
+}
+
